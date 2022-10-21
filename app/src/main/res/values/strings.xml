@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">CanvasProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Log Out</string>
+    <string name="no_internet_connection">no internet connection  </string>
+    <string name="enable_internet_for_firsttime">Please turn on internet connection for the first time !</string>
+    <string name="turnon_internet">please turn on internet connection </string>
+    <string name="update">Update</string>
+    <string name="ignore">Ignore</string>
+    <string name="slogan">Design wishes Publish anywhere</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="hello_there">Hello there, Welcome Back</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="otp">OTP</string>
 </resources>
